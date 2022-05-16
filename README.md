@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jwgrein.  I'm a software developer with over 20 years experience.  I have worked 
 with Java, Embedded C, C#, Delphi and Ruby.  I focused mainly on backend system development 
-in Java and Ruby before moving to embedded C and C# support apps for the past 2 years.    
+in Java before moving to embedded C and C# support apps for the past 2 years.    
 
 - 👀 I’m interested in BlockChain, Smart Contracts and DApp development.  I see this becoming 
 a new and growing market in the coming years and am hoping to get into this at an early stage.
